@@ -12,6 +12,8 @@ Total Dataset Size: Around 350 MB
 
 Data Source: AI-generated images, optimized for lower storage requirements
 
+DATASET LINK : https://drive.google.com/drive/folders/1g4RTKEIEIF026MUSlDAzKzlGMYyv_hxR?usp=sharing
+
 **Training Details**
 
 Hardware: CPU-based training (no GPU)
