@@ -37,3 +37,5 @@ While many large-scale autoencoder projects employ extensive datasets (often sev
 **Conclusion**
 
 This project showcases that it’s possible to train effective autoencoders without massive datasets or powerful hardware. By leveraging AI-generated images and optimizing for efficiency, we can achieve impressive results with accessible resources.
+
+Ping me at rithikaarulmozhi21@gmail.com  for any queries.
